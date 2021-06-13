@@ -2,7 +2,7 @@
 # Bike-Showroom-Mangement-System
 Built a full stack application that performs CRUD operations based on bike model, its specification and the price, developed with HTML/CSS - PHP - MySQL.
 
-_Features :_
+## Features :
 1. Entry Stock
 2. Inventory Updates
 3. Photograph Uploads
