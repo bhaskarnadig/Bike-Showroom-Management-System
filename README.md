@@ -18,3 +18,15 @@ Built a full stack application that performs CRUD operations based on bike model
 
 ![11](https://user-images.githubusercontent.com/85170315/121812791-e97e8900-cc86-11eb-9945-ac27b4a9b50b.png)
 
+## Requirements to set up in local machine
+
+Step 1: Download and Install XAMPP ver 7.2.28/php 7.1.28 (64 bit).
+Step 2: Run the Installer to Install XAMPP and select all the components.
+Step 3: Click on the ‘Start’ button corresponding to Apache and MySQL.
+
+## Executing Project
+
+Step 1: Once the Apache and MySQL services are started and running in the background. Now extract the project zip file.
+Step 2: Copy this folder and navigate to xampp folder located in C drive and inside xampp, find the htdocs folder and paste the project folder.
+Step 3: Go to your browser (Chrome) and type in URL field:  localhost/ Bike-Showroom-Management-System
+Step 4: Hit enter , the project will start running.
